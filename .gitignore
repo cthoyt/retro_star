@@ -103,3 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 .DS_Store
+
+retro_star/dataset/
+retro_star/one_step_model/
+retro_star/saved_models/
