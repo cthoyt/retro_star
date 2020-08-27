@@ -13,6 +13,7 @@ dependencies:
   - pandas
   - rdkit
   - tqdm
+  - rdchiral
   - networkx
   - graphviz
   - python-graphviz
